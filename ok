@@ -15,3 +15,6 @@ fd4
 44k
 f44
 5
+
+area-server-1      |       'Host: slack.com\r\n' +
+area-server-1      |       'Connection: keep-alive\r\n' +b
